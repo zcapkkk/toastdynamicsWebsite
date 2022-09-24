@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toastdynamicsWebsite/static/css/main.464c8c95.css",
+    "main.js": "/toastdynamicsWebsite/static/js/main.30c864fc.js",
+    "index.html": "/toastdynamicsWebsite/index.html",
+    "main.464c8c95.css.map": "/toastdynamicsWebsite/static/css/main.464c8c95.css.map",
+    "main.30c864fc.js.map": "/toastdynamicsWebsite/static/js/main.30c864fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.464c8c95.css",
+    "static/js/main.30c864fc.js"
+  ]
+}
