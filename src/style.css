@@ -1,0 +1,41 @@
+@keyframes fade_in {
+  from {
+    /* fade in at start */
+    opacity:0;
+
+  }
+
+  to {
+   /* end state */
+    opacity:1;
+
+  }
+
+}
+
+p {
+  text-align: left;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+.section {
+  animation: 1s fade_in;
+  padding-top:20px;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+
+
+
